@@ -1,0 +1,5 @@
+{
+    "key": "backspace",
+    "command": "deleteLeft",
+    "when": "textInputFocus"
+}
